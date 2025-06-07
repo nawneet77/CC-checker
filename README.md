@@ -6,4 +6,4 @@ pip install -r requirements.txt
 
 python3 extracter_cc.py
 
-good luck !
+good luck!
